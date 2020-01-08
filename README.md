@@ -6,7 +6,7 @@ A good meeting should:
 
 - Include <= 3 people
 
-OR
+_OR_
 
 - Have:
   1. __A leader__. The leader is responsible for:
@@ -15,11 +15,12 @@ OR
 	    3. Scheduling, inviting, and tracking RSVPs.
 	    4. Distributing the agenda and homework.
 	    5. Facilitating the meeting.
-  2. __Homework__. Background references and resources, shaping and informing perspective on core point(s) of the meeting. This should be clearly stated in...
 
-  3. __An agenda.__<sup>[<>](#agenda-example)</sup>
+  2. __Homework__. Background references and resources, shaping and informing perspective on core point(s) of the meeting. This should be clearly stated in an agenda.
 
-These three standards for a >=3-human meeting are __MANDATORY__. _Any meeting where any participant has failed to recieve an agenda or to complete the homework should be called off and rescheduled._ This is critical for skin-in-the-game buy in and accountable collaborative productivity. It will also naturally and beneficially restrict both meeting size and frequency.
+  3. __An agenda.__<sup>[example](#agenda-example)</sup>
+
+These three standards for a >3-human meeting are __MANDATORY__. _Any meeting where any participant has failed to recieve an agenda or to complete the homework should be called off and rescheduled._ This is critical for skin-in-the-game buy in and accountable collaborative productivity. It will also naturally and beneficially restrict both meeting size and frequency.
 
 
 ## Meeting Types
