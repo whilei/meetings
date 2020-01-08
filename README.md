@@ -20,7 +20,7 @@ _OR_
 
   3. __An agenda.__<sup>[example](#agenda-example)</sup>
 
-These three standards for a >3-human meeting are __MANDATORY__. _Any meeting where any participant has failed to recieve an agenda or to complete the homework should be called off and rescheduled._ This is critical for skin-in-the-game buy in and accountable collaborative productivity. It will also naturally and beneficially restrict both meeting size and frequency.
+These three standards for a >=3-human meeting are __MANDATORY__. _Any meeting where any participant has failed to recieve an agenda or to complete the homework should be called off and rescheduled._ This is critical for skin-in-the-game buy in and accountable collaborative productivity. It will also naturally and beneficially restrict both meeting size and frequency.
 
 
 ## Meeting Types
