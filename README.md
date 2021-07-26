@@ -47,7 +47,7 @@ __Informational__ meetings are unnecessary. This is what email is for.
 
 __Stakeholder__ meetings should involve a small number of delegated representatives appearing on behalf of the team. This is a _nontype_ because it's not really a meeting, it's a press conference -- probably on par with the public relations attitude at CERN: _I will try to be polite and patient despite the continuing reference to photons as 'fairy dust'._ 
   + These meetings should happen as infrequently as possible so that those short-straw representatives can try to get some actual work done. 
-  + Delegated representatives may find it advisable to have an Engineering Meeting prior to the stakeholder assembly in order to devise believable and convincing stories and excuses, as well as to anticipate strategies against protestors who may or may not ask questions.
+  + Delegated representatives may find it advisable to have an Engineering Meeting prior to the stakeholder assembly in order to devise believable and convincing stories and excuses, as well as to anticipate strategies to counter protestors who may ask questions.
 
 ### Agenda example
 
