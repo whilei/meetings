@@ -4,11 +4,9 @@
 
 A good meeting should:
 
-- Include <= 3 people
+- Include no more than 3 people, __OR__
 
-_OR_
-
-- Have:
+- Have _all of the following_:
   1. __A leader__. The leader is responsible for:
 	    1. Formulating the agenda and homework.
 	    2. Divining and enforcing invitations. _Not everyone gets invited to all meetings._
