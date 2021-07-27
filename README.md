@@ -25,11 +25,11 @@ These three standards for a >=3-human meeting are __MANDATORY__. _Any meeting wh
 
 __Consensus__ meetings hint toward all-hands meetings and/or project management meetings. Their purpose is essentially to decide to act decisively as a group. Cooperative decisions can be reached with (in order of efficacy):
 
-- tried and true forms of gestures  and grunts, which are collectively undertaken whenever any speaker has finished the first 1/2 to 2/3 of any sentence,
-  + gestures can include hand-waving, raising fists, pounding fists, clenching fists, touching lips with index finger, covering eyes with palm, grabbing furniture
+- tried and true forms of gestures  and grunts, which are collectively undertaken whenever any speaker has finished the first half of any sentence,
+  + gestures can include hand-waving, raised fists, pounding fists, clenched fists, touching lips with index finger, pinching nose, grabbing furniture...
   + grunts can include but are not limited to panting, whimpering, sighing, and holding your breath until the contrarians concede because the pathos has replaced the majority of oxygen in the air
 - coercision and/or extortion before the meeting
-- what they call voting, which is just a way of adding unnecessary names and rituals to some combination of the first two forms. 
+- what they call voting, which is just a politically correct way of adding unnecessary and irrelevant rituals to some combination of the first two forms. 
 
 Please seek to educate, garner early feedback, and document an engineering process or other provenance of a proposal. A consensus meeting is NOT a brainstorming or engineering session; the point is _Yea_ or _Nea_, not revision or invention. These types of meetings should be limited to high-impact and large-scale solutions that will impact life for everyone at the meeting and possibly minions or groupies. Final decisions and attached accountability should be documented in a consistent way.
 
